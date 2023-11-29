@@ -65,7 +65,7 @@ colorama==0.4.6
     #   west
 coverage==7.3.1
     # via -r ./zephyr/scripts/requirements-build-test.txt
-cryptography==41.0.4
+cryptography==41.0.6
     # via
     #   -r ./bootloader/mcuboot/scripts/requirements.txt
     #   -r ./nrf/scripts/requirements-build.txt
